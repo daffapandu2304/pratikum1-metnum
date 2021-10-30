@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-@author: Daffa Pandu Dewanata 202010225333 TF3A6
+@author: Daffa Pandu Dewanata 202010225242 TF3A6
 """
+
 print ("")
 print ("")
 print ("Nama : Daffa Pandu Dewanata")
